@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "184219642879",
+    "firebase_url": "https://license-plate-44c03.firebaseio.com",
+    "project_id": "license-plate-44c03",
+    "storage_bucket": "license-plate-44c03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184219642879:android:8c2d41350bf45721",
+        "android_client_info": {
+          "package_name": "com.example.klefe.licenseplaterrecognizer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184219642879-t84su9j2kmfb7io3gshvltsjc679p127.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.klefe.licenseplaterrecognizer",
+            "certificate_hash": "c93078da35f1e7f91c58fa0fe558dc85d1d3ccc7"
+          }
+        },
+        {
+          "client_id": "184219642879-r7ihst35n2fp7agblh43u56dfvmb89el.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfVBTbAgTQLTZv8yjSjdxx-nRly3BAYE0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184219642879-r7ihst35n2fp7agblh43u56dfvmb89el.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
